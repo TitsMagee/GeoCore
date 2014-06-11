@@ -1,0 +1,39 @@
+.nav-logo {
+	width: 215px;
+	background: url(../img/rhdhv_logo.png) no-repeat;
+}
+
+.nav-box {
+	background: #0086a8;
+}
+
+.navbar .navbar-inner {
+	background: #FFFFFF;
+}
+
+.navbar .nav>li>a {
+	color: #0086a8;
+	text-shadow: none;
+}
+
+nav.main-nav ul li a {
+	color: #FFFFFF;
+}
+
+.btn {
+	background-color: #C7D300;
+	background-image: linear-gradient(to bottom, #C7D300, #d8e600);
+	background-repeat: repeat-x;
+} 
+
+.hero-unit .btn {
+	background: #f49600;
+}
+
+.btn.btn_info {
+	background: #f49600;
+}
+
+.btn.btn-primary {
+	background: #e41f18;
+}
